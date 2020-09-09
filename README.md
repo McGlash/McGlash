@@ -6,7 +6,7 @@ As an insights professional, it is that electric aha! moment when you present a 
 
 I had my own aha! moment about the future of market research and clients’ evolving needs. It catalyzed me to hone my data analytics (Hello World!) capacities.  
 
-Please click on 'Repositories' above for examples of my capabilites. 
+Please see [Repositories](https://github.com/McGlash?tab=repositories) for examples of my capabilites. 
 
 <!--
 **McGlash/McGlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
